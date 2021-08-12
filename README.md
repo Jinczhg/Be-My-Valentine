@@ -21,9 +21,8 @@ A slide player
 
 ## Support
 
-- Chrome: 45.0.2454.99
-- Firefox: 40.0.3
-- Safari: 9.0.1
+- Chrome: 91.0.4472.114
+- Safari: 14.1.2
 
 ## Known Issues
 
