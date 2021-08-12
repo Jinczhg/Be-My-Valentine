@@ -98,7 +98,7 @@ var MUSIC_VOLUME = 100;
  *
  * 增加此项是为了更好的显示效果。
  */
-var LOADING_DELAY = 1500;
+var LOADING_DELAY = 2000;
 
 /**
  * 所有图片的总数目。如果要添加删除图片，请修改此数目。
