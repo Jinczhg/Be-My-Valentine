@@ -15,8 +15,8 @@ A slide player
 - check out this repo.
 - Modify `src/config.js` according to your needs.
 - Open `src/index.html` for a local demo.
-- `src/images`only supports JPEG；If adding/removing images, you will have to change the variable `IMAGE_COUNT` in the `src/config.js`.
-- `src/musics`only supports .mp3；If adding/removing images, you will have to change the variable `MUSIC_COUNT` in the `src/config.js`.
+- `src/images`only supports JPEG. If adding/removing images, you will have to change the variable `IMAGE_COUNT` in the `src/config.js`.
+- `src/musics`only supports .mp3. If adding/removing images, you will have to change the variable `MUSIC_COUNT` in the `src/config.js`.
 - `src/rename_files.sh` is for renaming the image files or music files.
 
 ## Support
