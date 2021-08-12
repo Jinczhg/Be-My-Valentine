@@ -252,8 +252,8 @@ function setEventHandlers(slides, musics) {
     //musics.next();
   });
   $("#last").on("click", function() {
-    slides.jump(IMAGE_COUNT-1);
     slides.pause();
+    //slides.jump(IMAGE_COUNT-1);
     //musics.last();
     $("#pause").hide();
     $("#play").show();
