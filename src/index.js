@@ -206,7 +206,7 @@ function createSlidePlayer() {
     slides: slides,
     walk: function (index, slideSettings) {
       $("#counter").html(index + 1);
-      if (index > IMAGE_COUNT && !LOOP_SLIDES) {
+      if (index > IMAGE_COUNT - 1 && !LOOP_SLIDES) {
         player.pause();
         $("#pause").hide();
         $("#play").show();
@@ -255,6 +255,8 @@ function setEventHandlers(slides, musics) {
     slides.jump(IMAGE_COUNT-1);
     slides.pause();
     //musics.last();
+    $("#pause").hide();
+    $("#play").show();
   });
   $("#pause").on("click", function() {
     musics.pause();
