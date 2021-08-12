@@ -6,12 +6,12 @@ var TITLE = "啊啵爱媛媛";
 /**
  * 预载入图片的提示信息。
  */
-var LOADING_IMAGES = "正在载入图片，请稍后……";
+var LOADING_IMAGES = "Loading images...";
 
 /**
  * 预载入音乐的提示信息。
  */
-var LOADING_MUSICS = "正在载入音乐，请稍后……";
+var LOADING_MUSICS = "Loading music...";
 
 /**
  * 是否预加载所有的图片。
@@ -98,7 +98,7 @@ var MUSIC_VOLUME = 100;
  *
  * 增加此项是为了更好的显示效果。
  */
-var LOADING_DELAY = 1000;
+var LOADING_DELAY = 1500;
 
 /**
  * 所有图片的总数目。如果要添加删除图片，请修改此数目。
