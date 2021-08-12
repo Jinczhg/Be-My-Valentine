@@ -21,7 +21,7 @@ var PRELOAD_IMAGES = true;
 /**
  * 是否预加载所有的音乐。
  */
-var PRELOAD_MUSICS = true;
+var PRELOAD_MUSICS = false;
 
 /**
  * 是否自动播放图片和音乐。
