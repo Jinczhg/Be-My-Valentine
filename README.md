@@ -23,7 +23,7 @@ A slide player
 
 - Chrome: 91.0.4472.114
 - Safari: 14.1.2
-- 
+
 
 ## Known Issues
 
