@@ -1,6 +1,6 @@
 # Be My Valentine
 
-A 2021 Chinese Valentine's gift for the love of my life. Honey I will love you till the end of the world.
+A 2021 Chinese Valentine's gift for the love of my life. Bae I will love you till the end of the world.
 
 ## Summary
 
@@ -23,10 +23,12 @@ A slide player
 
 - Chrome: 91.0.4472.114
 - Safari: 14.1.2
+- 
 
 ## Known Issues
 
 Currently it is set up to not automatically play the slides. If setting `AUTO_PLAY` as true in the `src/config.js`, all of the browsers will not automatically play the music until you click the toolbar on the top-right corner. The images will still play .
+
 
 ## License
 
