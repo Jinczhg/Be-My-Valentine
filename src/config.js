@@ -36,7 +36,7 @@ var SHUFFLE = false;
 /**
  * 每幅图片之间的延时，单位为毫秒（1000毫秒为1秒）。
  */
-var DELAY = 3000;
+var DELAY = 2000;
 
 /**
  * 图片切换的过渡动画效果。"random"表示采用随机效果。建议使用"random"。
@@ -46,7 +46,7 @@ var TRANSITION = "random";
 /**
  * 图片切换的过渡动画延时，单位为毫秒（1000毫秒为1秒）。
  */
-var TRANSITION_DURATION = 1000;
+var TRANSITION_DURATION = 500;
 
 /**
  * 图片显示时的动画效果。"random"表示采用随机效果。建议使用"random"。
