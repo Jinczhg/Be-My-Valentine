@@ -1,4 +1,4 @@
-folder_name = '/Users/jincheng/Downloads/imgs'
+folder_name = './images'
 
 import os
 import uuid
