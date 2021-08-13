@@ -205,8 +205,9 @@ function createSlidePlayer() {
     animationDuration: ANIMATION_DURATION,
     slides: slides,
     walk: function (index, slideSettings) {
-      $("#counter").html(index + 1);
-      if (index > IMAGE_COUNT - 1 && !LOOP_SLIDES) {
+      //$("#counter").html(index + 1);
+      if ($("#counter").html() > IMAGE_COUNT - 1 && !LOOP_SLIDES) { 
+        // when jumping to the end then go back a few slides and then keeps palying till the end, the slides will still stop at the end instead of looping
         player.pause();
         $("#pause").hide();
         $("#play").show();
