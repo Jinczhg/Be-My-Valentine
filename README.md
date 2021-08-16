@@ -9,6 +9,7 @@ A slide player
 ## Demo
 
 [BeMyValentine](https://jinczhg.github.io/Be-My-Valentine/src/index.html)
+[ValentinesFlower](https://jinczhg.github.io/Be-My-Valentine/src/ValentinesFlower.html)
 
 ## Instruction
 
