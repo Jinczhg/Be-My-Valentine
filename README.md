@@ -4,7 +4,7 @@ A 2021 Chinese Valentine's gift for the love of my life. Bae I will love you til
 
 ## Summary
 
-A slide player
+A slide player. Forked from https://github.com/Haixing-Hu/gift-to-lover. Replaced duplicated images and made some modifications to click logic.
 
 ## Demo
 
